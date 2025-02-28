@@ -45,10 +45,6 @@ The bot utilizes multiple APIs to gather comprehensive token information:
 - Gracefully handles API failures with fallback options
 - Returns clear error messages for invalid inputs
 
-## Contributing
-
-Feel free to open issues or submit pull requests to improve the bot's functionality.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
